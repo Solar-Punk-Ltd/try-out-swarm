@@ -49,7 +49,7 @@ The `simple.ts` script demonstrates a **basic Swarm interaction**:
 
 ### **Run the Script**
 
-You can use the following command to execute `simple.ts`:
+You may use the following command to execute `simple.ts`:
 
 ```sh
 node --loader ts-node/esm simple.ts
