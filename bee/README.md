@@ -120,7 +120,7 @@ Use the `swarm-cli` tool for easier interactions:
 
 ### SDK Interaction
 
-For programmatic interactions, check out the **Bee-JS** SDK in the [Bee-JS section]
+For programmatic interactions, check out the **Bee-JS** SDK in the [Bee-Js Section](https://github.com/Solar-Punk-Ltd/try-out-swarm/tree/master/bee-js)
 
 ---
 
