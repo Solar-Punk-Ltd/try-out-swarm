@@ -53,7 +53,7 @@ To start a Swarm light node, you need the **Bee binary**, available at:
 2. Place the binary in an accessible location.
 3. Use a startup script such as `runBee.sh` to start the node.
 
-Note: If you are in mac it can happen that you have to separatly enable the execution of your proper binary. Settings > Privacy & Security > Security > Allow execution. Also make sure that your binary is executable.
+Note: If you are in mac it can happen that you have to enable the execution of your binary. Settings > Privacy & Security > Security > Allow execution. Also make sure that your binary is executable.
 
 ### Example: Using `runBee.sh`
 
@@ -73,7 +73,7 @@ The script will start your node as a **light node** with a public RPC. For detai
 
 ## Funding the Node
 
-Before your node becomes fully operational, it must deploy a **chequebook** contract. This process requires **xDai** for gas fees and **xBzz** for network interactions.
+Before your node becomes fully operational, it must deploy a **chequebook** contract. This process requires **xDai** for gas fees and **xBzz** for network interactions. [For more](https://docs.ethswarm.org/docs/concepts/incentives/bandwidth-incentives/#chequebook-contract)
 
 ### Sending xDai
 
