@@ -67,7 +67,7 @@ For reference on configuration parameters, check the [Bee configuration document
 
 ### Node Modes
 
-The script will start your node as a **light node** with a public RPC. For details on different node types (full, light, ultra-light), see the [installation guide](https://docs.ethswarm.org/docs/bee/installation/install/#full-node-light-node-ultra-light-node).
+The script will start your node as a **light node** with a public RPC. For details on different node types (full, light, ultra-light), see the [installation guide](https://docs.ethswarm.org/docs/bee/installation/shell-script-install/).
 
 ---
 
